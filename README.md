@@ -1,4 +1,4 @@
-I’m @CharlesBrendan. I’m interested in data analytics. I've just completed the Google Data Analytics Professional Certificate. I’m looking to collaborate and learn more about data analytics
+
 
 
 <!---
